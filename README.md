@@ -56,12 +56,14 @@ I benchmark generation for increasing token lengths.
 
 ---
 
-## 🧪 Example Benchmark
+## Benchmark Results
 
-|Tokens: 20 | Speedup: 2.43x
-|Tokens: 40 | Speedup: 2.32x
-|Tokens: 60 | Speedup: 2.85x
-|Tokens: 80 | Speedup: 3.26x
+| Tokens | Speedup |
+|--------|---------|
+| 20     | 2.43x   |
+| 40     | 2.32x   |
+| 60     | 2.85x   |
+| 80     | 3.26x   |
 
 Results may vary depending on hardware (CPU vs GPU)
 
